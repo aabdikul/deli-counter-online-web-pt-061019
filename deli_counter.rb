@@ -26,4 +26,3 @@ def now_serving(katz_deli)
   end
   puts katz_deli
 end
-end
